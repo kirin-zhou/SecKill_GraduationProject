@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 15.0.1
+Implementation-Title: miaosha_4
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.kirin
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<!-- 定义一个th -->
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>hello</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+	<!-- 取th中的text标签 -->
+	<!-- ${name}：从服务端取值 -->
+	<!-- 'hello:'+${name}：字符串的拼接 -->
+	<p th:text="'hello:'+${name}" ></p>
+</body>
+</html>
