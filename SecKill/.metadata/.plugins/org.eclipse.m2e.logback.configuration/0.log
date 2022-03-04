@@ -4817,3 +4817,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration UserUtil (2) refere
 2022-03-03 21:48:43,152 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 45 resources
 2022-03-03 21:48:43,162 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-03 21:48:43,162 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Work\ideajava\GraduationProject\SecKill\SecKill\miaosha_5\src\test\resources
+2022-03-04 13:24:48,226 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
