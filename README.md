@@ -1,2 +1,3 @@
-# SecKill_GraduationProject1
-【毕设】高并发限时秒杀系统研究与实现
+# SecKill_GraduationProject
+
+[Graduation Project] Research and Implementation of a High-Concurrency Time-Limited Flash Sale System
